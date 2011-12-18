@@ -1,0 +1,7 @@
+" see image http://cdn-ak.f.st-hatena.com/images/fotolife/o/osyo-manga/20111216/20111216163234.gif?1324020996
+
+" add unite.vim option
+" animation speed
+let g:unite_update_time = 200
+
+let g:unite_cursor_line_highlight = "Normal"
