@@ -1,5 +1,4 @@
-" see image http://cdn-ak.f.st-hatena.com/images/fotolife/o/osyo-manga/20111216/20111216163234.gif?1324020996
-
+" see image http://cdn-ak.f.st-hatena.com/images/fotolife/o/osyo-manga/20111219/20111219000505.gif
 " add unite.vim option
 " animation speed
 let g:unite_update_time = 200
